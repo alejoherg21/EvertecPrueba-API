@@ -1,0 +1,103 @@
+
+Log Entry : 11:59:21 viernes, 13 de enero de 2023
+  :
+  :Test1
+-------------------------------
+
+Log Entry : 11:59:21 viernes, 13 de enero de 2023
+  :
+  :Test2
+-------------------------------
+
+Log Error: 12:04:06 viernes, 13 de enero de 2023
+  :An error occurred while saving the entity changes. See the inner exception for details.
+
+Log Error: 12:05:15 viernes, 13 de enero de 2023
+  :An error occurred while saving the entity changes. See the inner exception for details.
+
+Log Error: 12:08:38 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "strsdsfsds".
+
+Log Error: 12:21:28 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "striasdasd".
+
+Log Error: 12:21:54 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "striasdasd".
+
+Log Error: 13:43:05 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "dadasdasda".
+
+Log Error: 13:44:10 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "dadasdasda".
+
+Log Error: 13:45:07 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "dadasdasda".
+
+Log Error: 13:53:21 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "dadasdasda".
+
+Log Error: 13:54:49 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "dadasdasda".
+
+Log Error: 14:17:32 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "dadasdasda".
+
+Log Error: 14:18:32 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "dadasdasda".
+
+Log Error: 14:20:39 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "dadasdasda".
+
+Log Error: 14:21:54 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "dadasdasda".
+
+Log Error: 14:25:30 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "dad2222222".
+
+Log Error: 14:44:56 viernes, 13 de enero de 2023
+  :El nombre de columna 'Apellido' no es válido.
+
+Log Error: 14:58:04 viernes, 13 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "dad2222222".
+
+Log Error: 13:13:10 sábado, 14 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "dad2222222".
+
+Log Error: 13:17:00 sábado, 14 de enero de 2023
+  :Input string was not in a correct format.
+
+Log Error: 13:19:58 sábado, 14 de enero de 2023
+  :Error de conversión al convertir el valor nvarchar 'Casado' al tipo de datos int.
+
+Log Error: 17:38:52 sábado, 14 de enero de 2023
+  :The 'DateOnly?' property 'Persona.FechaNacimiento' could not be mapped to the database type 'datetime' because the database provider does not support mapping 'DateOnly?' properties to 'datetime' columns. Consider mapping to a different database type or converting the property value to a type supported by the database using a value converter. See https://aka.ms/efcore-docs-value-converters for more information. Alternately, exclude the property from the model using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'.
+
+Log Error: 9:56:07 domingo, 15 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "erwerwerwe".
+
+Log Error: 10:13:53 domingo, 15 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "juana45645".
+
+Log Error: 10:15:47 domingo, 15 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "juana54546".
+
+Log Error: 10:15:51 domingo, 15 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "juana54546".
+
+Log Error: 10:19:35 domingo, 15 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Apellido" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "hernandez1".
+
+Log Error: 10:19:35 domingo, 15 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Apellido" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "hernandez1".
+
+Log Error: 10:22:52 domingo, 15 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "juana15456".
+
+Log Error: 10:22:54 domingo, 15 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "juana15456".
+
+Log Error: 10:22:58 domingo, 15 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "juana15456".
+
+Log Error: 10:28:40 domingo, 15 de enero de 2023
+  :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "juana54546".
