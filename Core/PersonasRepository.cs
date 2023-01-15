@@ -49,6 +49,7 @@ namespace Core
                 using (var contextoBd = new PruebaEvertecContext())
                 {
                     contextoBd.Entry(persona).State = EntityState.Modified;
+                    contextoBd.Entry(persona).Property(x => x.FotoUsuario).IsModified = false;
                     contextoBd.SaveChanges();
                 }
                 return null;
