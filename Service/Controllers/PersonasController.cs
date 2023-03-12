@@ -1,11 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Domain;
 using Core;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Service.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class PersonasController : ControllerBase
     {
         private readonly IPersonas personas;
@@ -59,6 +61,13 @@ namespace Service.Controllers
             {
                 return BadRequest("Internal Server error");
             }
+        }
+
+        [HttpDelete("eliminar/{id}")]
+        public IActionResult EliminarPersonaP(int id)
+        {
+                personas.EliminarPersonaP(id);
+                return Ok();
         }
 
         [HttpPut]

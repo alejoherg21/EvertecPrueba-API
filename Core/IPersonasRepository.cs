@@ -14,6 +14,8 @@ namespace Core
         List<Persona> ConsultaPersonas();
         Exception ActualizarPersona(Persona persona);
         Exception EliminarPersona(int id);
+
+        void EliminarPersonaP(int id);
         Exception ActualizarFoto(int id, byte[] data);
         byte[] ObtenerFoto(int id);
     }

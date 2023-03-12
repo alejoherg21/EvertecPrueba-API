@@ -101,3 +101,22 @@ Log Error: 10:22:58 domingo, 15 de enero de 2023
 
 Log Error: 10:28:40 domingo, 15 de enero de 2023
   :Los datos binarios o de la cadena se truncan en la columna "Nombre" de la tabla "PruebaEvertec.dbo.Personas". Valor truncado: "juana54546".
+
+Log Error: 15:46:55 domingo, 12 de marzo de 2023
+  :Entro alejo
+
+Log Action: 12/03/2023  :Entro alejo al endpoint /api/Users/saludar
+
+Log Action: 12/03/2023 16:13: Entro alejo al endpoint /api/Users/saludar
+Log Action: 12/03/2023 16:18:  User=> alejo; action=> /api/personas/2;
+Log Error: 17:08:32 domingo, 12 de marzo de 2023
+  :Value cannot be null. (Parameter 'entity')
+
+Log Error: 17:10:18 domingo, 12 de marzo de 2023
+  :Value cannot be null. (Parameter 'entity')
+
+Log Error: 17:12:52 domingo, 12 de marzo de 2023
+  :Value cannot be null. (Parameter 'entity')
+
+Log Error: 17:14:45 domingo, 12 de marzo de 2023
+  :Value cannot be null. (Parameter 'entity')

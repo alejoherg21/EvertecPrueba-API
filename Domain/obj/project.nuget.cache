@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "51Vft4tKv952w+zikVqJMO7j+/7cGIDFj6fe4wQDdvy5BCWR6DgtvHI21nE/KqlWV8ltscEgrhWa+EAqEByH4A==",
+  "dgSpecHash": "CSvEYgV6k2wbzyd3OZzzhJueV8jalu3/kUDlb/I221l7kf+5WVrvdR6g1gyzD7odUgKSvp1G4q76Syc+iSOJhA==",
   "success": true,
-  "projectFilePath": "E:\\Alejo\\Hoja de vida\\Prueba Evertec\\APIEvertec\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\Alejo\\Hoja de vida\\Prueba Evertec\\RepositorioAPI_1\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alejandro\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

@@ -80,6 +80,17 @@ namespace Core
             }
         }
 
+        public void EliminarPersonaP(int id)
+        {
+            using (var contextoBd = new PruebaEvertecContext())
+            {
+                var persona = contextoBd.Personas.Find(id);
+                contextoBd.Personas.Remove(persona);
+                contextoBd.SaveChanges();
+            }
+        }
+
+
         public Exception? ActualizarFoto(int id, byte[] data)
         {
             try

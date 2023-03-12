@@ -17,6 +17,7 @@ public partial class PruebaEvertecContext : DbContext
     }
 
     public virtual DbSet<Persona> Personas { get; set; }
+    public virtual DbSet<User> User { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {

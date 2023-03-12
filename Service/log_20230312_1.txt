@@ -1,0 +1,2 @@
+
+Log Action: 12/03/2023 17:01:23:  User=> alejo; action=> /api/personas/eliminarG/2;

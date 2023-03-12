@@ -1,0 +1,3 @@
+
+Log Action: 12/03/2023 16:51:29:  User=> alejo; action=> /api/Users/saludar;
+Log Action: 12/03/2023 16:51:41:  User=> alejo; action=> /api/personas/2;

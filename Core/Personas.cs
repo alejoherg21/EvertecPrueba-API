@@ -68,6 +68,12 @@ namespace Core
             }
         }
 
+        public void EliminarPersonaP(int id)
+        {
+                //aca se ejecuta toda la logica del negocio
+                personasRepository.EliminarPersonaP(id);
+        }
+
         public Exception ActualizarFoto(int id, byte[] data)
         {
             try
