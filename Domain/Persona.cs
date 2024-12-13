@@ -10,8 +10,6 @@ public partial class Persona
 
     public string? Nombre { get; set; } // otro nuevo
 
-    public string? Dato { get; set; } // otro nuevo
-
     public string? Apellido { get; set; }
 
     public DateTime? FechaNacimiento { get; set; }
