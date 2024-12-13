@@ -8,7 +8,7 @@ public partial class Persona
 {
     public int PersonaId { get; set; } //nuevo
 
-    public string? Nombre { get; set; } // otro nuevo
+    public string? Nombre { get; set; } // otro nuevo cambio
 
     public string? Apellido { get; set; }
 
