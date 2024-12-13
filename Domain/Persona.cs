@@ -6,9 +6,11 @@ namespace Domain;
 
 public partial class Persona
 {
-    public int PersonaId { get; set; }
+    public int PersonaId { get; set; } //nuevo
 
-    public string? Nombre { get; set; }
+    public string? Nombre { get; set; } // otro nuevo
+
+    public string? Dato { get; set; } // otro nuevo
 
     public string? Apellido { get; set; }
 
